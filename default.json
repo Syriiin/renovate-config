@@ -6,5 +6,8 @@
         "security:minimumReleaseAgeNpm",
         "group:test",
         "group:allNonMajor"
-    ]
+    ],
+    "nix": {
+        "enabled": true
+    }
 }
