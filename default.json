@@ -6,7 +6,7 @@
         "security:minimumReleaseAgeNpm",
         "group:test",
         "group:allNonMajor",
-        "group:monorepo"
+        "group:monorepos"
     ],
     "nix": {
         "enabled": true,
