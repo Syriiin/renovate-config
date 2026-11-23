@@ -9,6 +9,9 @@
         "group:monorepo"
     ],
     "nix": {
-        "enabled": true
+        "enabled": true,
+        "lockFileMaintenance": {
+            "enabled": true
+        }
     }
 }
