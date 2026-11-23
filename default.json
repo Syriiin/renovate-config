@@ -5,7 +5,8 @@
         "schedule:weekly",
         "security:minimumReleaseAgeNpm",
         "group:test",
-        "group:allNonMajor"
+        "group:allNonMajor",
+        "group:monorepo"
     ],
     "nix": {
         "enabled": true
